@@ -1,4 +1,4 @@
-# github.com-anonimbiri
+# https://anonimbiri.github.io/gartic.io-bot/v2
 <div align="center">
   <h1 style="font-size: 3em;">ElevedaðŸ‘‹ - GoodbyeðŸ‘‹</h1>
   <img src="https://i.imgur.com/oiEon0B.png" height="150">
